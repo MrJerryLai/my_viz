@@ -1,2 +1,9 @@
 # my_viz
-A play to display my data visualisations
+A place to display my data visualisations
+
+This is a visualitaion of **Eurovision**!
+
+*italic*
+**bold**
+
+![my_viz] (eurovision_best.png)
